@@ -1,0 +1,8 @@
+spring.application.name=microservice
+spring.datasource.url=jdbc:postgresql://localhost:5432/your_db?TimeZone=Asia/Kolkata
+spring.datasource.username=your_username
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.jdbc.time_zone=UTC
+spring.data.redis.host=localhost
+spring.data.redis.port=6379
